@@ -3,7 +3,7 @@
 dummya:
 
 dummyb:
-	ls c:/
+	echo 'Random text'
 
 dummyc: dummya
 
